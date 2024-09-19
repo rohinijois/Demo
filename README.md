@@ -1,18 +1,4 @@
-# TypeScript Developer Technical Assessment
 
-These exercises are designed to assess your technical skills and see how you
-solve problems.
-
-There is no right answer here, and work-in-progress code is fine, as long as you
-can explain what you were working on during the interview.
-
-Thanks, and good luck!
-
-## Instructions
-
-1. Read the information below.
-2. Complete the assessment by performing the two exercises.
-3. Return the completed assessment for review as directed.
 
 ### Installation
 
